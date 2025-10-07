@@ -1,10 +1,10 @@
 EXP NO:1 C PROGRAM FOR ARRAY OF STRUCTURE TO CHECK ELIGIBILITY FOR THE VACCINE.
-NAME:PANGA THANUJA
-REG NO:212224040231
-Aim:
+## NAME:PANGA THANUJA
+## REG NO:212224040231
+## Aim:
 To write a C program for array of structure to check eligibility for the vaccine person age above 6 years of age.
 
-Algorithm:
+## Algorithm:
 1.	Declare structure eligible with age (integer) and n (character array)
 2.	Declare variable e of type eligible
 3.	Input age and name using scanf, store in e
@@ -15,7 +15,7 @@ Else
 5.	Print details (e.age, e.n)
 6.	Return 0
  
-Program:
+## Program:
 ```
 #include <stdio.h>
 #include <string.h>
@@ -41,7 +41,7 @@ int main() {
 }
 ```
 
-Output:
+## Output:
 
 ![Screenshot 2025-04-25 104400](https://github.com/user-attachments/assets/b495adaf-9ff1-4237-ae6e-0ac254d379ad)
 
@@ -309,5 +309,5 @@ Output:
 
 
 
-Result:
+## Result:
 Thus, the program is verified successfully
